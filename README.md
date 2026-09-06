@@ -33,6 +33,33 @@ The project explores how **artificial intelligence and modern web technologies**
 
 ---
 
+## Screenshots
+
+### Student Dashboard
+
+![Student Dashboard](./assets/screenshots/homepage.png)
+
+### Course based Quiz Generator
+
+![Quiz Generator](./assets/screenshots/quiz.png)
+
+### CGPA Predictor
+
+![CGPA Predictor](./assets/screenshots/cgpa.png)
+
+### AI Wellbeing Support
+
+![ Wellbeing Support](./assets/screenshots/wellbeing.png)
+
+### Smart Study Planner
+
+![Study Planner](./assets/screenshots/studyplanner.png)
+
+### AI Assist Teacher Dashboard
+
+![Teacher Dashboard](./assets/screenshots/teacher.png)
+
+---
 
 ##  AI-Powered Experience
 
